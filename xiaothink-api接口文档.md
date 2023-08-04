@@ -79,9 +79,9 @@
 
 | 返回参数      |     参数类型 |   参数说明   |
 | :-------- | :--------| :------ |
-| success|   boolean|  请求成功与否|
 | code|   Integer|  执行结果code|
-| message|   String|  执行结果消息|
+| data| Object| 执行结果集|
+| msg|   String|  执行结果消息|
 
 **请求示例**
 
@@ -134,9 +134,9 @@
 
 | 返回参数      |     参数类型 |   参数说明   |
 | :-------- | :--------| :------ |
-| success|   boolean|  请求成功与否|
 | code|   Integer|  执行结果code|
-| message|   String|  执行结果消息|
+| data| Object| 执行结果集|
+| msg|   String|  执行结果消息|
 
 **请求示例**
 
@@ -189,9 +189,9 @@
 
 | 返回参数      |     参数类型 |   参数说明   |
 | :-------- | :--------| :------ |
-| success|   boolean|  请求成功与否|
 | code|   Integer|  执行结果code|
-| message|   String|  执行结果消息|
+| data| Object| 执行结果集|
+| msg|   String|  执行结果消息|
 
 **请求示例**
 
@@ -248,9 +248,9 @@
 
 | 返回参数      |     参数类型 |   参数说明   |
 | :-------- | :--------| :------ |
-| success|   boolean|  请求成功与否|
 | code|   Integer|  执行结果code|
-| message|   String|  执行结果消息|
+| data| Object| 执行结果集|
+| msg|   String|  执行结果消息|
 
 **请求示例**
 
@@ -306,9 +306,9 @@
 
 | 返回参数      |     参数类型 |   参数说明   |
 | :-------- | :--------| :------ |
-| success|   boolean|  请求成功与否|
 | code|   Integer|  执行结果code|
-| message|   String|  执行结果消息|
+| data| Object| 执行结果集|
+| msg|   String|  执行结果消息|
 
 **请求示例**
 
